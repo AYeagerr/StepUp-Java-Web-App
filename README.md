@@ -11,7 +11,7 @@ StepUp is a comprehensive e-commerce platform designed to manage products, order
 - **Order Management**: Users can view their past orders and order details.
 - **User Authentication**: Secure login and registration system.
 - **Cookies**: The platform uses cookies to store some info about the session. (Not that important)
-- **Email Notifications**: Users receive email notifications upon successful registration and order placement.
+- **Email Notifications**: Users receive email notifications upon successful login.
 
 ### Admin Features
 
@@ -86,6 +86,11 @@ StepUp is a comprehensive e-commerce platform designed to manage products, order
 
 - **Cookies**: The platform uses cookies to store some data that does not affect the session. Ensure cookies are enabled in your browser for a seamless experience.
 - **Email Notifications**: The platform sends email notifications for login confirmation. Update the email host and credentials in `EmailUtility.java` for this feature to work.
+
+## Contributors
+
+This project was made possible thanks to the contributions of:
+- [@Mororock6]([https://github.com/Mororock6](https://github.com/Mororock6))
 
 ## Contributing
 
